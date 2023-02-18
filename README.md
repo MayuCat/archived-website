@@ -1,6 +1,6 @@
 # a dumb blog for a dumb dog
 
-its pretty gay in here btw :3\~
+also gay :3
 
 <!-- .slide -->
 
