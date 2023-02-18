@@ -1,6 +1,6 @@
-# a dumb blog for a dumb dog
+# mayuwu.gay
+it's kinda gay, ykno?
 
-also gay :3
 
 <!-- .slide -->
 
