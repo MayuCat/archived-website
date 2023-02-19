@@ -2,21 +2,11 @@ title: this is gay # site title
 description: | # info behind avatar（html format），<br/> line break
   Mayu<br/>
   立花<br/>
-  <a href="mailto:">
-    <i class="fa-solid fa-envelope"></i>
-  </a>
-  <a href="">
+  <a href="https://github.com/MayuCat">
     <i class="fa-brands fa-github"></i>
   </a>
-  <a href="">
-    <i class="fa-solid fa-smile"></i>
-  </a>
-  <a href="">
-    <i class="fa-brands fa-bilibili"></i>
-  </a>
-  <a href="">
-    <i class="fa-brands fa-zhihu"></i>
-  </a>
+  <a href="https://en.pronouns.page/@qqMayu">
+    <i class="fa-solid fa-transgender"></i>
   <br/>
 url: https://mayucat.github.io # your domain name, e.g. https://wu-kan.github.io
 baseurl: "" # if your blog is built in a certain directory, please add the directory name here, and add it before '/assets' in all the links configured below, named '/your_baseurl/assets'. do not have a / at the end of this item.
