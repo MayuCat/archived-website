@@ -519,7 +519,7 @@ defaults: # configure all options using: <https://jekyllrb.com/docs/configuratio
                       }'
                 ></script>
             - smart_include:
-                enable: false
+                enable: true
               append: | # introduce live2d kanban girl! you don't need to delete this item
                 <link
                   rel="stylesheet"
@@ -723,7 +723,7 @@ webmaster_verifications: # <https://jekyll.github.io/jekyll-seo-tag/usage/>
   baidu: szbTSfUGAB
 
 permalink: pretty
-# timezone: America/Los_Angeles # 解决githubpage显示时间不正确的问题，见<https://www.iana.org/time-zones>
+ timezone: America/Los_Angeles # 解决githubpage显示时间不正确的问题，见<https://www.iana.org/time-zones>
 future: true # 允许发布时间在未来的文章
 
 # limit_posts: 999 # 限制博文数量
