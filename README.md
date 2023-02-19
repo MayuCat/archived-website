@@ -1,6 +1,7 @@
 # mayuwu.gay
 it's kinda gay, ykno?
-<iframe width="854" height="480" src="https://www.youtube.com/embed/GRMcaPDrbqw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="534" height="335" src="https://www.youtube.com/embed/GRMcaPDrbqw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<section data-background-image="https://files.catbox.moe/dnxzbf.jpg">
 
 <!-- .slide -->
 
