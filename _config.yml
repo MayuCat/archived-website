@@ -27,9 +27,9 @@ defaults: # configure all options using: <https://jekyllrb.com/docs/configuratio
               async="async"
             ></script>
         default:
-          colors:
-            primary_text: '#FFFAF0'
           body:
+            colors:
+              primary_text: '#FFFAF0'
             theme-base: theme-base-0e # optional theme colors include 08~0f, see <https://github.com/poole/lanyon>
             layout-reverse: false # after opening the sidebar is on the right, normally it is on the left
             sidebar-overlay: true # after opening the text does not move with the movement of the sidebar
