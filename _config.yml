@@ -380,7 +380,7 @@ defaults: # configure all options using: <https://jekyllrb.com/docs/configuratio
               <style>
                 ::selection {
                   color: White;
-                  background: Black;
+                  background: White;
                 }
               </style>
             - | # adjust heading style
@@ -557,26 +557,26 @@ defaults: # configure all options using: <https://jekyllrb.com/docs/configuratio
                       "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                       "content": {
                         "link": ["https:\/\/jekyll-theme-WuK.wu-kan.cn"],
-                        "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
+                        "skin": ["want to change to one of my friends?~"],
                         "hidden": true,
                         "custom": [{
                           "selector": "a",
                           "type": "link",
                         }, {
                           "selector": ".sidebar-toggle",
-                          "text": "打开侧边栏叭~"
+                          "text": "open the sidebar~"
                         }, {
                           "selector": ".effect-info",
-                          "text": "哇，你发现了什么！"
+                          "text": "wow, what did you find！"
                         }, {
                           "selector": "#sidebar-search-input",
-                          "text": "想搜索什么呢？很多干货哦！"
+                          "text": "what are you looking for?"
                         }, {
                           "selector": "#toc",
                           "text": "这是目录~"
                         }, {
                           "selector": ".page-title",
-                          "text": "这是标题~"
+                          "text": "arf!~"
                         }]
                       },
                       "model": [
@@ -653,9 +653,9 @@ defaults: # configure all options using: <https://jekyllrb.com/docs/configuratio
         home: # the configuration of the display page can be skipped, see <https://revealjs.com/>
           append_to_section_tag:
             - key: data-markdown
-            - key: data-separator # 水平展示页分隔符
+            - key: data-separator # display page separator horizontally
               value: <!-- .slide -->
-            - key: data-separator-vertical # 垂直展示页分隔符
+            - key: data-separator-vertical # Vertical display page separator
               value: <!-- .slide vertical=true -->
             - key: data-background-color
               value: "White"
